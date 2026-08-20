@@ -6,13 +6,13 @@ body {
   margin: 0;
   font-family: system-ui, sans-serif;
   line-height: 1.5;
-  color: #FFC0CB;
+  color: #87a96b;
 }
 
 header {
   padding: 3rem 1rem;
   text-align: center;
-  background: #87a96b;
+  background: #bcd4e6;
 }
 
 main {
