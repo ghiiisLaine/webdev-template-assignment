@@ -6,5 +6,9 @@ document.getElementById("myButton").addEventListener("click", function() {
   document.getElementById("answer").textContent =
     "It's practical :p";
 
+  document.getElementById("HAir").addEventListener("click", function() {
+  document.getElementById("answerColor").textContent =
+    "Idk lol";
+
   });
       
