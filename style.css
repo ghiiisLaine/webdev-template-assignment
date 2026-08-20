@@ -15,6 +15,11 @@ header {
   background: #bcd4e6;
 }
 
+button {
+  background-color: #ff69b4;
+  color: white;
+}
+
 main {
   max-width: 700px;
   margin: 0 auto;
