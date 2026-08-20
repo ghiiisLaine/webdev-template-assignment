@@ -4,7 +4,7 @@ console.log("Hello from script.js!");
 
 document.getElementById("myButton").addEventListener("click", function() {
   document.getElementById("answer").textContent =
-    "It's practical :')";
+    "It's practical :p";
 
   });
       
